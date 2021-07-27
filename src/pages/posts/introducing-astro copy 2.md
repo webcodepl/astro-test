@@ -1,5 +1,5 @@
 ---
-title: "Introducing Astro: Ship Less JavaScript 2"
+title: "Introducing Astro: Ship Less JavaScript 20"
 description: "We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience."
 publishDate: "Tuesday, June 8 2021"
 author: "fred"
